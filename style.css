@@ -1,3 +1,9 @@
 html {
     background-color: rgb(90, 88, 88);
 }
+
+
+img {
+    height: 200px;
+    width: 250px;
+}
